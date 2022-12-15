@@ -7,3 +7,6 @@ I created this project as part of my Intro to Data Science using R class during 
 I asked the question: How has worldwide terrorism changed in the past 40 years?
 
 <img align="right" alt="Coding" width="400" src="/Graphs/Screen Shot 2022-12-15 at 8.12.51 AM.png">
+<img align="center" alt="Coding" width="400" src="/Graphs/Screen Shot 2022-12-15 at 8.12.41 AM.png">
+<img align="left" alt="Coding" width="400" src="/Graphs/Screen Shot 2022-12-15 at 8.13.02 AM.png">
+
